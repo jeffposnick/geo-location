@@ -1,0 +1,7 @@
+{
+  "name": "geo-location#gh-pages",
+  "private": true,
+  "dependencies": {
+    "geo-location": "ebidel/geo-location#master"
+  }
+}
